@@ -16,7 +16,7 @@ Repositório contendo os **laboratórios desenvolvidos na disciplina de Algoritm
 
 📂 Acesse os laboratórios:
 
-- 🔹 [Lab01 - Funções](./Lab01_funcoes)
+- 🔹 [Lab01 - Funções](./lab01_funcoes)
 - 🔹 [Lab02 - Bibliotecas](./Lab02_lib)
 - 🔹 [Lab03 - Ponteiros](./Lab03_ponteiros)
 - 🔹 [Lab04 - Alocação Dinâmica](./Lab04_alocacao_dinamica)
